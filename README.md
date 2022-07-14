@@ -14,6 +14,12 @@
     |-- config.sh                  # 配置脚本
 |-- mmrotate-main                  # 模型相关文件
 ```
+## 环境配置
+- Python 3.7.7
+
+- cuda 11.1
+
+- torch 1.9.0
 ## 使用方法
 ### 1. 下载模型文件
 下载地址：链接：https://pan.baidu.com/s/1BdO5Q-igHF_ZndDxwsk-PQ 
